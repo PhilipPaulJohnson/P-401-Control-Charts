@@ -1,5 +1,5 @@
 # P-401-Control-Charts
-Excel Spreadsheet to track and chart P-401 HMA properties based individual and range measurements
+Excel Spreadsheet to track and chart P-401 HMA properties based on individual and range measurements
 
 ![P-401 Control Points - Graphical Chart](https://github.com/PhilipPaulJohnson/P-401-Control-Charts/assets/114535785/c251d72f-6a8b-4c5d-9608-ff9b4e587a88)
 ![P-401 Control Points - Graphical Chart-2](https://github.com/PhilipPaulJohnson/P-401-Control-Charts/assets/114535785/38c0ba83-3b77-4150-b2af-abec324566d5)
